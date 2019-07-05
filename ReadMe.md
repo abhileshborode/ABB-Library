@@ -3,7 +3,7 @@ Library developed to control an ABB arm in MATLAB
 
 # Function definition
 
-# 1. R = rotX(theta) 
+### 1. R = rotX(theta) 
 
 Returns a rotation matrix describing a rotation
 about the X axis (theta in radians).
